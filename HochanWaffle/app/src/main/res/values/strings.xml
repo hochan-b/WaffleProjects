@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HochanWaffle</string>
+    <string name="button1">Profile</string>
+    <string name="button2">우리집 강아지 보고가세요</string>
+    <string name="introduction">방호찬 \n Seoul National University, \nComputer Science and Engineering \n Freshmen \n hochan0115@naver.com \n hochan0115@snu.ac.kr</string>
+</resources>
